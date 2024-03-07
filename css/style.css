@@ -876,3 +876,12 @@ a:focus {
           transform: rotate(-45deg) translate(8px, -8px);
 }
 /*# sourceMappingURL=style.css.map */
+
+/*moje izmene*/
+
+body>header.header_section {
+  position: sticky;
+  top: 0px;
+  z-index: 1000;
+  background: linear-gradient(to right, #1a2e35, #1cbbb4);
+}
